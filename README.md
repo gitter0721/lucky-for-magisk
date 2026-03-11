@@ -1,6 +1,8 @@
 # Lucky Magisk Module (万吉网络神器 - 面具模块)
 
-这是一个将 [gdy666/lucky](https://github.com/gdy666/lucky) 核心程序打包为 Magisk / KernelSU 模块的项目 [cite: 60]。
+这是一个将 [gdy666/lucky](https://github.com/gdy666/lucky) 核心程序打包为 Magisk / KernelSU 模块的项目
+
+lucky官网: https://lucky666.cn
 
 通过本模块，你可以将任意一台已经 Root 的闲置安卓设备，化身为一台超低功耗、性能强悍的微型软路由/服务器。支持公网 IPv6 转内网 IPv4 端口转发、反向代理、DDNS、内网穿透、网络唤醒等强大功能
 
@@ -47,7 +49,7 @@
  └── system/
       └── bin/
            └── lucky   # 核心二进制可执行文件
-
+```
 
 📜 鸣谢与声明
 
